@@ -1,2 +1,2 @@
 # deployTest
-Testing github hooks for  deployment
+Testing github hooks for deployment
